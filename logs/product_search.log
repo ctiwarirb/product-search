@@ -1,0 +1,10 @@
+2024-09-06 19:15:52,122 - product_search - INFO - Database connection opened.
+2024-09-06 19:15:52,124 - product_search - ERROR - Database error: UNIQUE constraint failed: products.product_id
+2024-09-06 19:15:52,203 - product_search - ERROR - Database error: UNIQUE constraint failed: products.product_id
+2024-09-06 19:15:52,279 - product_search - ERROR - Database error: UNIQUE constraint failed: products.product_id
+2024-09-06 19:15:52,359 - product_search - INFO - Inserted product 11061186 into the database.
+2024-09-06 19:15:52,446 - product_search - INFO - Inserted product 11006249 into the database.
+2024-09-06 19:16:02,295 - product_search - INFO - Database connection opened.
+2024-09-06 19:16:09,466 - product_search - INFO - Database connection opened.
+2024-09-06 19:16:09,469 - product_search - INFO - KNN model fitted with embeddings.
+2024-09-06 19:16:09,997 - product_search - INFO - Found 5 similar products.
